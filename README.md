@@ -1,4 +1,3 @@
-# Telecom-Customer-Churn-Analysis
 # 📡 Telecom — Customer Churn Analysis
 
 > *Transforming raw numbers into Retention stories*
